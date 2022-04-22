@@ -8,7 +8,7 @@ docker compose down
 
 # HTCondor Custom Config
 
-Define custom configuration in config/<role>/*.conf files.
+Define custom configuration in config/\<role\>/*.conf files.
 
 # Change Pool Password
 
