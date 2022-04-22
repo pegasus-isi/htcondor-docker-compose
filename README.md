@@ -21,5 +21,5 @@ Enter password:
 # Running Pegasus Commands
 
 ```
-docker exec -it -u ssubmituser htcondor-docker-compose-submit-1 bash
+docker exec -it -u submituser htcondor-docker-compose-submit-1 bash
 ```
